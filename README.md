@@ -20,6 +20,6 @@
 через которую пользователи смогут отправить комментарий на электронную почту.  
 
 ------
-Перейти на [страницу](https://sergeyladorski.github.io/how-to-learn/) проекта.
+Перейти на [страницу проекта](https://sergeyladorski.github.io/how-to-learn/).
 
 Больше моих проектов на [GitHub](https://github.com/sergeyladorski).
