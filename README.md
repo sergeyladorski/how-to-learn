@@ -18,7 +18,7 @@
 * Реализована файловая структура **БЭМ (Nested)**.  
 ------
 
-Перейти на [страницу проекта]((https://sergeyladorski.github.io/how-to-learn/).  
+Перейти на [страницу проекта](https://sergeyladorski.github.io/how-to-learn/).  
 Больше моих проектов на [GitHub](https://github.com/sergeyladorski).
 
 **Sergey Ladorski**
